@@ -1,4 +1,4 @@
-# ariadnavigo.xyz - Source code for ariadnavigo.xyz
+# ariadnavigo.github.io - Source code for personal website
 
 This is the source code repository for my website hosted at
 [ariadnavigo.xyz][website].
