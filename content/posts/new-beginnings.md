@@ -1,6 +1,6 @@
 +++
 title = "New Beginnings"
-date = "2025-06-04T16:33:45+02:00"
+date = '2025-06-08T21:13:09+02:00'
 author = "Ariadna"
 tags = ["blog", "projects", "free software"]
 keywords = ["free software", "programming", "blog"]
