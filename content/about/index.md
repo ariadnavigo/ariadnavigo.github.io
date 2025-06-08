@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = "2025-06-04T15:56:27+02:00"
+date = '2025-06-08T21:33:02+02:00'
 author = "Ariadna"
 keywords = ["Ariadna Vigo", "free software", "foss", "open source"]
 description = "About page for ariadnavigo.xyz"
@@ -22,5 +22,4 @@ These are the ways you can find me on the internet:
 
 1. **Email:** [ariadna@ariadnavigo.xyz](mailto:ariadna@ariadnavigo.xyz) 
    (You may find my OpenPGP key via WKD) 
-3. **Sourcehut:** [~ariadna_vigo](https://sr.ht/~ariadna_vigo)
-4. **libera.chat IRC:** ariadnavigo
+2. **Github:** [ariadnavigo](https://github.com/ariadnavigo)
