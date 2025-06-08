@@ -22,4 +22,4 @@ These are the ways you can find me on the internet:
 
 1. **Email:** [ariadna@ariadnavigo.xyz](mailto:ariadna@ariadnavigo.xyz) 
    (You may find my OpenPGP key via WKD) 
-2. **Github:** [ariadnavigo](https://github.com/ariadnavigo)
+2. **Github:** [@ariadnavigo](https://github.com/ariadnavigo)
