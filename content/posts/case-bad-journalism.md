@@ -1,5 +1,5 @@
 +++
-title = "A Case of Bad Journalism: Git Rebase Drama on the Linux Kernel"
+title = "A Case of Bad Journalism: Git Rebase Drama in the Linux Kernel"
 date = '2025-06-09T14:46:51+02:00'
 author = "Ariadna"
 tags = ["news", "linux", "journalism"]
