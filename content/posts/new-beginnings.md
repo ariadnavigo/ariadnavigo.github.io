@@ -4,7 +4,6 @@ date = '2025-06-08T21:13:09+02:00'
 author = "Ariadna"
 tags = ["blog", "projects", "free software"]
 keywords = ["free software", "programming", "blog"]
-description = "I'm back!"
 +++
 
 So, this is my _n-th_ attempt in writing a blog. Over the years I've been all
