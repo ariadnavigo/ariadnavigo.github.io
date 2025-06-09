@@ -4,6 +4,5 @@ date = "{{ .Date }}"
 author = "Ariadna"
 tags = ["", ""]
 keywords = ["", ""]
-description = ""
 draft = true
 +++
