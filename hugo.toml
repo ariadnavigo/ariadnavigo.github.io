@@ -126,3 +126,7 @@ pagination.pagerSize = 5
   [minify.tdewolff]
     [minify.tdewolff.html]
     keepQuotes = true # Fixing metadata that reqires quotes
+
+[markup]
+  [markup.goldmark.extensions]
+  linkify = false # deactivating autolinks
