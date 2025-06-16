@@ -1,6 +1,6 @@
 +++
 title = "Managing Complexity in a Linux System"
-date = "2025-06-12T23:57:59+02:00"
+date = '2025-06-16T18:18:48+02:00'
 author = "Ariadna"
 tags = ["linux", "virtualization", "sysadmin", "my stories"]
 keywords = ["QEMU", "virt-manager", "Linux", "SysAdmin", "virtual machines"]
