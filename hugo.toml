@@ -15,7 +15,7 @@ pagination.pagerSize = 5
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -109,6 +109,12 @@ pagination.pagerSize = 5
         name = "About"
         url = "/about"
 	weight = 2
+      
+      [[languages.en.menu.main]]
+        identifier = "rss"
+        name = "RSS"
+        url = "/posts/index.xml"
+	weight = 3
 
 #[module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
