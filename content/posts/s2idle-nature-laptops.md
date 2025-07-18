@@ -108,14 +108,14 @@ machine, I know things will work out of the box (unless some kernel update
 breaks something, which is unlikely).
 
 Convenience is mostly always good, unless it comes with ethical problems [like
-generative AI does]({{< ref "posts/ai-not-friend-not-therapist" >}}). Of course,
-everyone's definition of _convenience_ will be different. Arch Linux is
-convenient for me, but you might find Ubuntu more convenient. We all love
-tinkering and I guess we all also love the thrill (and frustration) of fixing an
-unexpected issue on our computers, but in the end of the day, we use these
-machines _to get things done._ And I'm someone who wants her computer to be up
-and running as fast as possible from a sleep state because I might want to write
-down an idea on a text editor and close the lid a minute later.
+generative AI does.][ai-post] Of course, everyone's definition of _convenience_
+will be different. Arch Linux is convenient for me, but you might find Ubuntu
+more convenient. We all love tinkering and I guess we all also love the thrill
+(and frustration) of fixing an unexpected issue on our computers, but in the end
+of the day, we use these machines _to get things done._ And I'm someone who
+wants her computer to be up and running as fast as possible from a sleep state
+because I might want to write down an idea on a text editor and close the lid a
+minute later.
 
 I understand the problems with closing down the platforms we use daily, though.
 I'm also nostalgic of the past where PCs were your hardware playground. Laptops
@@ -142,6 +142,8 @@ guess.
 [sleep-docs]: https://www.kernel.org/doc/html/latest/admin-guide/pm/sleep-states.html
 
 [android-doze]: https://source.android.com/docs/core/power/platform_mgmt
+
+[ai-post]: /posts/ai-not-friend-not-therapist.md
 
 [crd-yt]: https://www.youtube.com/@CathodeRayDude
 
