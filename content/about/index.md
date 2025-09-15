@@ -23,5 +23,5 @@ These are the ways you can find me on the internet:
 1. **Email:** [ariadna@ariadnavigo.xyz](mailto:ariadna@ariadnavigo.xyz) 
    (You may find my OpenPGP key via WKD) 
 2. **GitHub:** [@ariadnavigo](https://github.com/ariadnavigo)
-3. **IRC:** _ariadnavigo_ on [Libera.chat](https://libera.chat/). Not really on
-   any other network these days.
+3. **IRC:** _ariadna_ on [Libera.chat](https://libera.chat/). Not really on any 
+   other network these days.
